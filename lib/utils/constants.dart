@@ -1,4 +1,4 @@
-const String apiKey = 'b2cc9b2859bcbd69af4fd38931f4e552';
+const String apiKey = 'write your own api key';
 const String mainURL = 'https://api.themoviedb.org/3/';
 const String popularURL = 'movie/top_rated';
 const String moviesURL = 'discover/movie';
